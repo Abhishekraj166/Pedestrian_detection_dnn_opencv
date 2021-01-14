@@ -3,10 +3,10 @@ This code shows the use of Mobile Net Single Shot detector provided with opencv 
 
 The package loads existing Caffe model from (https://docs.opencv.org/3.3.0/d5/de7/tutorial_dnn_googlenet.html)) googlenet dnn page and use it to classify pedestrian in the camera image topic. 
 
-#Requirements
+# Requirements
 ROS::Kinect, OpenCV
 
-Steps to follow: 
+# Steps to follow: 
 Launch roscore
 * $ roscore
 
